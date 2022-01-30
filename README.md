@@ -44,8 +44,11 @@ Resources and Methods:
 ## Business logic:
 
 -sekoita tiimit
+
 -luo tournamentti kuvaaja
+
 -näytä kuvia
+
 -luo tournamentti koodi
 
 

@@ -40,6 +40,7 @@ Resources and Methods:
   
 - Valokuvia , videoita
 
+![alt text](upload/../uploads/database graph.jpg "Database")
 
 ## Business logic:
 

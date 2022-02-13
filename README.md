@@ -40,7 +40,7 @@ Resources and Methods:
   
 - Valokuvia , videoita
 
-![alt text](upload/../uploads/database graph.jpg "Database")
+![alt text](upload/../uploads/drawSQL-export-2022-02-13_17_29.png "Database")
 
 ## Business logic:
 

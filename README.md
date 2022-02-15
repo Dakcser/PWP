@@ -52,6 +52,11 @@ Resources and Methods:
 
 -luo tournamentti koodi
 
+## Tools
+  -Python - Coding language of choice
+  -Flask - Microframework for web development
+  -SQLAlchemy - database toolkit
+
 
 
 

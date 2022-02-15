@@ -37,7 +37,7 @@ Resources and Methods:
 - peli tietoja 
   - kesto
   - tulos
-  
+  cd a
 - Valokuvia , videoita
 
 ![alt text](upload/../uploads/drawSQL-export-2022-02-13_17_29.png "Database")
